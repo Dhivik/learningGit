@@ -82,6 +82,3 @@ async function getData() {
 
   console.log(data);
 }
-
-let addDate = document.querySelector(".date");
-addDate.innerText = new Date();
